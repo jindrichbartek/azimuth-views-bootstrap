@@ -6,6 +6,6 @@
   "version": "0.2.0",
   "git": "https://github.com/mcrider/azimuth-views-bootstrap.git",
   "packages": {
-    "azimuth-core": {}
+    "azimuth-core": "0.2.0"
   }
 }
